@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    padding-top: 70px;
+    margin-top: 50px;
+}
+
+.Header1{
+    color: white;
+    text-align: center;
+    border: 5px solid greenyellow;
+    border-radius: 30px;
+    padding-top: 30px;
+    margin-bottom: 20px;
+    font-size: 35px;
+    font-family: "Yuyu Short", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.Header2{
+    color: white;
+    text-align: center;
+    border: solid greenyellow 5px;
+    border-radius: 30px;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    font-size: 25px;
+    font-family: "Montenegrin Gothic One", serif;
+    font-weight: 400;
+    font-style: normal;;
+}
+.Header3{
+    color: white;
+    text-align: center;
+    border: greenyellow 5px solid;
+    border-radius: 30px;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    font-size: 15px;
+}   
+.btn{
+    color:brown;
+    text-align: center;
+    border: greenyellow 10px solid;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    margin-top: 50px;
+    font-weight: bold;
+    padding-bottom: 5px;
+    text-shadow: blue;
+   
+
+}

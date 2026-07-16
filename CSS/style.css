@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+     text-align: center;
+    color: white;
+}
+
+.Header{
+    text-align: center;
+    color:blue;
+    text-decoration: underline;
+    font-size: 60px;
+}
+#Header2{
+        text-align: center;
+        color:rgb(147, 109, 183);
+        text-decoration: underline;
+        font-size: 40px;
+}
+.p{
+    text-align: center;
+    color: white;
+    font-family: "Playwrite NZ", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.img{
+    text-align: left;
+    border-radius: 50%;
+}
